@@ -65,7 +65,7 @@ export default function HomePage() {
       <div className="wrap" style={{ maxWidth: 480 }}>
         <div className="brand">
           <div className="kicker">The card hunt</div>
-          <h1>Find the Royals</h1>
+          <h1>Ace in the Hole</h1>
           <div className="suits">
             <span className="suit-black">&#9824;</span>{' '}
             <span className="suit-red">&#9829;</span>{' '}

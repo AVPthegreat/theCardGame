@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Find the Royals — KQJ',
+  title: 'Ace in the Hole — KQJ',
   description:
     'A room-based multiplayer card game. Flip cards, claim the King, Queen and Jack, and hunt the secret Ace jackpot with up to 4 friends.',
 };
