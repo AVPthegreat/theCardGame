@@ -1,0 +1,24 @@
+{
+  "name": "kqj-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Find the Royals (KQJ) — a room-based multiplayer card game built with Next.js, Framer Motion and Upstash Redis.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@upstash/redis": "1.34.9",
+    "canvas-confetti": "1.9.3",
+    "framer-motion": "11.18.2",
+    "next": "15.5.29",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "eslint": "9.18.0",
+    "eslint-config-next": "15.5.29"
+  }
+}
